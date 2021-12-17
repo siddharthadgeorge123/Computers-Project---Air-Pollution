@@ -1,0 +1,56 @@
+body{
+  text-align:center;
+  background:linear-gradient(
+  
+  #000000,#000000 100%);
+  background-repeat:no-repeat; }
+.Info {
+  color:#ee0979 ;
+  font-size:30px;
+  font-family: 'KoHo', sans-serif;
+  
+}
+
+.p1 {
+  font-family: 'Dosis', sans-serif;
+  color: #ff6a00;
+}
+
+.p2 {
+  font-family: 'Dosis', sans-serif;
+  color: ##DD2476;
+}
+#contactUs{
+  text-colour:#26D0CE;
+    
+  }
+#details{
+  font-color: #EFEBE9;
+}
+
+.p3{
+  font-size: 60px;
+  font-family: 'Source Serif Pro', serif;
+  color: #E0E0E0
+}
+.p4{
+  font-size:70px;
+  font-family: 'Roboto Slab', serif;
+  color: #E0E0E0
+}
+
+.p5{  font-size: 60px;
+font-family: 'Source Serif Pro', serif; 
+  color: #E0E0E0
+}
+
+img{
+  
+  transition:transform .2s;
+  border:10px solid #AAAAAA
+}
+
+img:hover{
+  
+  transform: scale(0.9);
+}
